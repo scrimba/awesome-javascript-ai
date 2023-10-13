@@ -2,7 +2,7 @@
 
 A curated list of libraries, APIs, and frameworks that give JavaScript developers AI superpowers. 
 
-Note: these are not tools for _training_ AI models, but for _utilising_ pre-trained in your apps (aka "AI Engineering").
+Note: these are not tools for _training_ AI models, but for _utilising_ pre-trained models in your apps (aka "AI Engineering").
 
 ## SDKs for general AI APIs
 
