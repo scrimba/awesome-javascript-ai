@@ -23,7 +23,7 @@ Note: these are not tools for _training_ AI models, but for _utilising_ pre-trai
 
 * [Deepgram Node](https://github.com/deepgram/deepgram-node-sdk) (transcription, text-to-speech)
 * [Roboflow Node](https://github.com/roboflow/roboflow-node) (computer vision)
-* [Stability.ai](https://github.com/vpzomtrrfrt/stability-client) (image generation)
+* [Stability.ai TS](https://github.com/vpzomtrrfrt/stability-client) (image generation)
 
 ## Run the model in the browser
 
