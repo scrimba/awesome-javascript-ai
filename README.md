@@ -8,6 +8,7 @@ Note: these are not tools for _training_ AI models, but for _utilising_ pre-trai
 
 * [HuggingFace.js](https://huggingface.co/docs/huggingface.js/index)
 * [OpenAI Node SDK](https://github.com/openai/openai-node)
+* [Replicate Node SDK](https://github.com/replicate/replicate-javascript#readme)
 * [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/get-started/workers-wrangler/)
 
 ## Frameworks
