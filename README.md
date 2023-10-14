@@ -28,3 +28,7 @@ Note: these are not tools for _training_ AI models, but for _utilising_ pre-trai
 ## Run the model in the browser
 
 * [Transformers.js](https://huggingface.co/docs/transformers.js/index)
+
+## Other
+
+* [fal.ai JS](https://www.fal.ai/docs/function-endpoints/client)
