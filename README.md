@@ -18,6 +18,7 @@ Note: these are not tools for _training_ AI models, but for _utilising_ pre-trai
 * [ModelFusion](https://github.com/lgrammel/modelfusion)
 * [IntelliNode](https://github.com/intelligentnode/IntelliNode)
 * [AI.JSX](https://docs.ai-jsx.com/)
+* [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 ## Specialised APIs
 
