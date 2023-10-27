@@ -4,7 +4,7 @@ A curated list of libraries, APIs, and frameworks that give JavaScript developer
 
 Note: these are not tools for _training_ AI models, but for _utilising_ pre-trained models in your apps (aka "AI Engineering").
 
-## SDKs for general AI APIs
+## JavaScript SDKs for general AI APIs
 
 * [HuggingFace.js](https://huggingface.co/docs/huggingface.js/index)
 * [OpenAI Node SDK](https://github.com/openai/openai-node)
