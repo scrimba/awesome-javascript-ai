@@ -7,8 +7,8 @@ Note: these are not tools for _training_ AI models, but for _utilising_ pre-trai
 ## JavaScript SDKs for general AI APIs
 
 * [HuggingFace.js](https://huggingface.co/docs/huggingface.js/index)
-* [OpenAI Node SDK](https://github.com/openai/openai-node)
-* [Replicate Node SDK](https://github.com/replicate/replicate-javascript#readme)
+* [OpenAI Node](https://github.com/openai/openai-node)
+* [Replicate Node](https://github.com/replicate/replicate-javascript#readme)
 * [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/get-started/workers-wrangler/)
 
 ## Frameworks
@@ -23,6 +23,7 @@ Note: these are not tools for _training_ AI models, but for _utilising_ pre-trai
 ## Specialised APIs
 
 * [Deepgram Node](https://github.com/deepgram/deepgram-node-sdk) (transcription, text-to-speech)
+* [AssemblyAI Node](https://github.com/AssemblyAI/assemblyai-node-sdk) (voice)
 * [Roboflow Node](https://github.com/roboflow/roboflow-node) (computer vision)
 * [Stability.ai TS](https://github.com/vpzomtrrfrt/stability-client) (image generation)
 
