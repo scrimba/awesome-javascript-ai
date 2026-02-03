@@ -13,6 +13,7 @@ Note: these are not tools for _training_ AI models, but for _utilising_ pre-trai
 
 ## Frameworks
 
+* [Mastra](https://mastra.ai)
 * [LangChain JS](https://js.langchain.com/docs/get_started/introduction)
 * [LLamaIndex.TS](https://github.com/run-llama/LlamaIndexTS)
 * [ModelFusion](https://github.com/lgrammel/modelfusion)
