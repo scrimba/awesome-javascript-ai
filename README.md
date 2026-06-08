@@ -28,6 +28,8 @@ Note: these are not tools for _training_ AI models, but for _utilising_ pre-trai
 * [Roboflow Node](https://github.com/roboflow/roboflow-node) (computer vision)
 * [Stability.ai TS](https://github.com/vpzomtrrfrt/stability-client) (image generation)
 
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Run the model in the browser
 
 * [Transformers.js](https://huggingface.co/docs/transformers.js/index)
