@@ -35,3 +35,4 @@ Note: these are not tools for _training_ AI models, but for _utilising_ pre-trai
 ## Other
 
 * [fal.ai JS](https://www.fal.ai/docs/function-endpoints/client)
+* [Markstream](https://github.com/Simon-He95/markstream-vue) (streaming Markdown rendering for AI chat UIs across Vue, React, Svelte, Angular, and Vue 2)
